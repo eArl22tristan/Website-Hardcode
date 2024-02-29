@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "name":" Sirius Remote-controlled Car",
+        "price": 1000,
+        "image": "img/c4.jpg"
+    },
+    {
+        "id": 2,
+        "name":" Red Porsche",
+        "price": 1200,
+        "image": "img/c5.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Blue GTR Racing Car",
+        "price": 1350,
+        "image": "img/c6.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Green Classic Car",
+        "price": 1250,
+        "image": "img/c7.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Rastar Sports Car",
+        "price": 1390,
+        "image": "img/c8.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Police Vehicle",
+        "price": 1110,
+        "image": "img/c9.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Car Racing/Sports Car",
+        "price": 3000,
+        "image": "img/c10.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Pink Range Mover",
+        "price": 119,
+        "image": "img/c11.webp"
+    },
+    {
+        "id": 9,
+        "name":" Classic 1978 Car",
+        "price": 40000,
+        "image": "img/c12.jpg"
+    },
+    {
+        "id": 10,
+        "name":" Classic 1953 Car",
+        "price": 40001,
+        "image": "img/c13.webp"
+    },
+    {
+        "id": 11,
+        "name":" Lamborghini Remote-controlled Car",
+        "price": 40500,
+        "image": "img/c14.jpg"
+    }
+
+]
